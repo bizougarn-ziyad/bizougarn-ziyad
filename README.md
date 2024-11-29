@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first-year  student at FSTG University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a first-year  student at ESTA University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 
 ## 🌐 Socials:
