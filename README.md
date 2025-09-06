@@ -10,7 +10,7 @@ I am a student at ESTA University, passionate about exploring the realms of codi
 
 
 ## 🛠 Skills
-HTML, CSS , Javascript , PHP , SQL 
+HTML, Tailwind CSS , Javascript , PHP , SQL , Laravel , Livewire
 
 
 
